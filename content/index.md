@@ -1,7 +1,13 @@
 ---
-title: Welcome to Quartz
+title: Welcome to my digital garden
+tags:
+  - 🌲Evergreen
+draft: false
 ---
 
-This is a blank Quartz installation. 
-TEsting testing 123 
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+## Hi, I'm Kiran
+
+This [[Digital Garden]] I use to document my experiences, philosophies and things that interest me in the hope that you'll find it interesting or useful. 
+
+
+
