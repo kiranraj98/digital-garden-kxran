@@ -11,3 +11,5 @@ This [[Digital Garden]] I use to document my experiences, philosophies and thing
 
 haha
 
+1) git commit -a 
+2) git push 
