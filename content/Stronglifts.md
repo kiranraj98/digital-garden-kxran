@@ -26,9 +26,9 @@ Hypertrophy would be nice bonus, but its not the primary focus(I'd be running a 
 
 **The Plan** 
 I plan to run this program for as long as I see strength gains and my joint's are not negatively impacted. 
-I will be logging my progress monthly right here under *[Weightroom Logs]* 
-Along with this strength program, I'm also doing the *[Limber 11]* routine everyday to work on my lower body flexibility.
-My Roadwork is tracked here  *[Roadwork]* 
+I will be logging my progress monthly right here under *[[Weightroom Logs]]* 
+Along with this strength program, I'm also doing the *[[Limber 11]]* routine everyday to work on my lower body flexibility.
+My Roadwork is tracked here  *[[Roadwork]]*
 
 
 - Flexibility & Rehab
