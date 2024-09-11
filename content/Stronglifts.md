@@ -26,10 +26,9 @@ Hypertrophy would be nice bonus, but its not the primary focus(I'd be running a 
 
 **The Plan** 
 I plan to run this program for as long as I see strength gains and my joint's are not negatively impacted. 
-I might switch to the standard 5x5 program at some point. 
-I will be logging my progress monthly right here under *Weightroom Logs* 
-Along with this strength program, I'm also doing the *Limber 11* routine everyday to work on my lower body flexibility.
-My Roadwork is tracked here  *Roadwork* 
+I will be logging my progress monthly right here under *[Weightroom Logs]* 
+Along with this strength program, I'm also doing the *[Limber 11]* routine everyday to work on my lower body flexibility.
+My Roadwork is tracked here  *[Roadwork]* 
 
 
 - Flexibility & Rehab
@@ -38,13 +37,13 @@ My Roadwork is tracked here  *Roadwork*
 - Strength
 
 
-| StrongLifts 5×5 Lite with Assistance for Glutes/Abs     |                                                               |
-| ------------------------------------------------------- | ------------------------------------------------------------- |
-| **Workout A**                                           | **Workout B**                                                 |
-| [Squat](https://stronglifts.com/squat/) 2×5             | [Squat](https://stronglifts.com/squat/) 2×5                   |
-| [Bench Press](https://stronglifts.com/bench-press/) 2×5 | [Overhead Press](https://stronglifts.com/overhead-press/) 2×5 |
-| [Barbell Row](https://stronglifts.com/barbell-row/) 2×5 | [Deadlift](https://stronglifts.com/squat/) 2×5                |
-| ==Romanian Deadlift 2×8==                               | ==Hanging Knee Raises 2×8==                                   |
+| StrongLifts 5×5 Lite with Assistance for Glutes/Abs |                             |
+| --------------------------------------------------- | --------------------------- |
+| **Workout A**                                       | **Workout B**               |
+| Squat 2×5                                           | Squat 2×5                   |
+| Bench Press 2×5                                     | Overhead Press 2×5          |
+| Barbell Row 2×5                                     | Deadlift 2×5                |
+| ==Romanian Deadlift 2×8==                           | ==Hanging Knee Raises 2×8== |
 
 
 
@@ -53,10 +52,7 @@ Height: 180cm+-
 Weight: 71kg
 Age: 26 Y/O
 
-Current conditions:
-- Knee Valgus(Knock Knees)
-- Anterior-Pelvic Tilt 
-- Slight curved spine 
+
 
 
 
