@@ -31,9 +31,8 @@ Along with this strength program, I'm also doing the *[[Limber 11]]* routine eve
 My Roadwork is tracked here  *[[Roadwork]]*
 
 
-- Flexibility & Rehab
-- Roadwork
-- Muay Thai 
+- Limber 11
+- Roadwork 
 - Strength
 
 
