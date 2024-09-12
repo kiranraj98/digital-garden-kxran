@@ -12,15 +12,15 @@ This [[Digital Garden]] I use to document my experiences, philosophies and thing
 [[Stronglifts]]
 
 
-| Progress logs |
-| ------------- |
-|               |
-|               |
-|               |
-|               |
-|               |
-|               |
-|               |
-|               |
-|               |
-|               |
+| Progress logs                          |
+| -------------------------------------- |
+| asdsadadasdasdasdasdasdasdasdasdasdada |
+| asdasdasdadasdasdasdasdasdasdasdasdada |
+|                                        |
+|                                        |
+|                                        |
+|                                        |
+|                                        |
+|                                        |
+|                                        |
+|                                        |
