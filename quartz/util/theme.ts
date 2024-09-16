@@ -10,7 +10,7 @@ export interface ColorScheme {
 }
 
 interface Colors {
-  lightMode: ColorScheme
+  // lightMode: ColorScheme
   darkMode: ColorScheme
 }
 
