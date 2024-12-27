@@ -1,13 +1,15 @@
 ---
-title: Stronglifts
+title: 7-day Hypertrophy program
 draft: false
 tags:
   - 🌲Evergreen
 ---
 **How much muscle can you even gain in 7 days?**
+
 With Muscle memory, I might be able to gain abit of muscle in a short period of time, not a lot. 
 
 **Why do I want to do this anyway?**
+
 Well who doesn't want to gain some muscle?
 But that's not the main reason for me.
 I want to commit to strength training on a deeper level and bring that energy with me into the new year. 
