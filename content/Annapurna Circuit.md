@@ -1,11 +1,10 @@
 ---
-title: Reading List 2025
+title: Annapurna Circuit
 draft: true
 tags:
   - 🌲Evergreen
 ---
 
-[Brothers Karamazov] 
 
 
 

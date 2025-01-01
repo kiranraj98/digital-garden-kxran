@@ -1,6 +1,6 @@
 ---
 title: Stronglifts
-draft: false
+draft: true
 tags:
   - 🌲Evergreen
 ---
